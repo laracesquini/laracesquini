@@ -1,16 +1,17 @@
-### Hi there 👋
+# Oii, meu nome é Lara! ❤️
+ 
+![foto-editada3](https://github.com/laracesquini/laracesquini/assets/138629084/a126e697-c8fe-4ab4-bb76-d6eff49d92f3)
 
-<!--
-**laracesquini/laracesquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu?
+Sou estudante do curso de Ciência da Computação pela UNESP de São José do Rio Preto, procurando aprender cada vez mais! Aqui vou colocar um pouquinho do que tenho estudado. Seja bem-vindo!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudos recentes:
+* Desenvolvimento Web
+* Desenvolvimento de programas nas linguagens C e Java
+* Inteligência artificial
+
+## Como falar comigo?
+
+
+[![meu instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laracesquinistopa/)
