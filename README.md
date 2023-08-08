@@ -7,6 +7,7 @@ Estudos recentes:
 * Desenvolvimento Web
 * Desenvolvimento de programas nas linguagens C e Java
 * Inteligência artificial
+* Aprendendo Python
   
 ![linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![linguagem Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
